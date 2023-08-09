@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ontrack/static/css/main.073c9b0a.css",
+    "main.js": "/ontrack/static/js/main.16d32747.js",
+    "static/js/787.ec5f9bad.chunk.js": "/ontrack/static/js/787.ec5f9bad.chunk.js",
+    "static/media/logo.svg": "/ontrack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ontrack/index.html",
+    "main.073c9b0a.css.map": "/ontrack/static/css/main.073c9b0a.css.map",
+    "main.16d32747.js.map": "/ontrack/static/js/main.16d32747.js.map",
+    "787.ec5f9bad.chunk.js.map": "/ontrack/static/js/787.ec5f9bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.16d32747.js"
+  ]
+}
